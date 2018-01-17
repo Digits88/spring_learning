@@ -26,5 +26,5 @@ hs_err_pid*
 .project
 .settings/
 
-# Spring Added
+# Binary Files
 bin/ 
