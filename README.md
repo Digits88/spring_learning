@@ -1,5 +1,5 @@
 # spring_learing
-Note the procedure of learning spring.
+Note the process of learning spring.
 
 ## Course URL
 The course "Spring & Hibernate for Beginners" link is<br>
